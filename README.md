@@ -24,4 +24,6 @@ The cube will spin continuously, showing different numbers on each face.
 
 You can customize the cube by changing the colors, sizes, or adding different content to each face.
 
+![spanning cube](https://github.com/devarshi002/cube_animation/assets/124704583/fe703f5e-1127-4023-abf8-d18d9824a258)
+
 ```
